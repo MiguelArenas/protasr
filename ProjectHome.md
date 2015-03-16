@@ -14,8 +14,7 @@ Importantly, the inferred proteins should be as realistic as possible.
 `ProtASR` arises from these aims and presents a fast and accurate evolutionary framework to infer ancestral protein sequences accounting for structural constrains. ProtASR through the Meanfield model can generate ancestral proteins that are more stable than proteins generated with the classical empirical substitution models.
 
 
-#### Download ####
-Details to download `ProtASR` can be found at Wiki/ProtASR\_Download (https://code.google.com/p/protasr/wiki/ProtASR_Download).
+#### Package ####
 The package is implemented in C and perl and can run on Linux and Mac OS.
 
 #### Citation ####
