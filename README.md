@@ -11,11 +11,17 @@ Importantly, the inferred proteins should be as realistic as possible.
 ProtASR arises from these aims and presents a fast and accurate evolutionary framework to infer ancestral protein sequences accounting for structural constrains. ProtASR through the MF model can generate ancestral proteins that are more stable than proteins generated with the classical empirical substitution models. 
 
 
+
 Citation
+
 ProtASR: An Evolutionary Framework for Ancestral Protein Reconstruction with Selection on Structural Stability. In preparation. Arenas M, Liberles DA & Bastolla U. 2015.
 
+
 Acknowledgments
+
 We thank Tal Pupko for helpful advices. This work was supported by the Spanish Government with the “Juan de la Cierva” fellowship JCI-2011-10452 and by the EMBO Short Term Fellowship ASTF 367-2013 to MA.
 
+
 Help
+
 Please, do not hesitate to contact us (miguelmmmab@gmail.com) for any question.
