@@ -11,9 +11,9 @@ To download ProtASR we recommend use the Chrome browser. Then go to releases and
 
 References
 
-Old version of ProtASR: Arenas M, Weber CC, Liberles D & Bastolla, U. 2017. ProtASR: An Evolutionary Framework for Ancestral Protein Reconstruction with Selection on Folding Stability. Systematic Biology, 66(6):1054-1064.
-
 New version of ProtASR (ProtASR2.2): Manuscript in preparation.
+
+Old version of ProtASR: Arenas M, Weber CC, Liberles D & Bastolla, U. 2017. ProtASR: An Evolutionary Framework for Ancestral Protein Reconstruction with Selection on Folding Stability. Systematic Biology, 66(6):1054-1064.
 
 
 Acknowledgments
