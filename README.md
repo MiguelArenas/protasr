@@ -2,27 +2,22 @@ ProtASR is an evolutionary framework to reconstruct ancestral protein sequences 
 
 It is known that protein evolution is influenced by the protein structure. However, most of current phylogenetic frameworks do not implement structurally constrained substitution models of evolution due to their mathematical complexity.
 
-We have recently developed a substitution model of protein evolution called "Mean-Field" (MF) that accounts for the protein structure including negative design and that can generate site-specific evolutionary parameters that can be incorporated to a maximum likelihood function. We already found that this model can better fit real protein evolution by computing maximum likelihood estimates (evaluated with the AIC criterion) and amino acid distribution across sites.
+We have recently developed a set of structurally constrained substitution (SCS) models of protein evolution that consider positive and negative design and that can generate site-specific evolutionary parameters to a likelihood function. We already found that this model can better fit real protein evolution with respect to the traditional empirical substitution models in terms of maximum likelihood (evaluated with the AIC criterion) and amino acid distribution across sites.
 
-On the other hand, the reconstruction of ancestral proteins is applied for a variety of purposes such as the inference of centralized proteins (centralized vaccines) and the inference of ancestral enzymes (paleoenzymology). See, Gao, F. et al. Consensus and ancestral state HIV vaccines. Science 2003, 299:1515-1518. Arenas, M. and Posada, D. Computational Design of Centralized HIV-1 Genes. Curr HIV Res 2010, 8:613-621. Perez-Jimenez, R. et al. Single-molecule paleoenzymology probes the chemistry of resurrected enzymes. Nat Struct Mol Biol 2011,18:592-596.
+ProtASR arises from these aims and consists of a fast and accurate evolutionary framework to infer ancestral protein sequences accounting for structural constrains. ProtASR, through the implemented SCS models, can generate ancestral proteins that are more stable than proteins generated with the classical empirical substitution models.
 
-Importantly, the inferred proteins should be as realistic as possible.
-
-ProtASR arises from these aims and presents a fast and accurate evolutionary framework to infer ancestral protein sequences accounting for structural constrains. ProtASR through the MF model can generate ancestral proteins that are more stable than proteins generated with the classical empirical substitution models. 
-
-To download ProtASR I recommend use the Chrome browser. Then go to releases and click on the desired files (ProtASR2.1.zip; do not download Source code files because they only include a readme).
+To download ProtASR we recommend use the Chrome browser. Then go to releases and click on the desired files. The latest release is ProtASR2.2.zip, which outperforms the previous releases and include more SCS models (among other aspects). Do not download Source code files because they only include a readme.
 
 
-Citation
+References
+Old version of ProtASR: Arenas M, Weber CC, Liberles D & Bastolla, U. 2017. ProtASR: An Evolutionary Framework for Ancestral Protein Reconstruction with Selection on Folding Stability. Systematic Biology, 66(6):1054-1064.
 
-ProtASR: An Evolutionary Framework for Ancestral Protein Reconstruction with Selection on Structural Stability. In preparation. Arenas M, Liberles DA & Bastolla U. 2015.
+New version of ProtASR (ProtASR2.2): Manuscript in preparation.
 
 
 Acknowledgments
-
-We thank Tal Pupko for helpful advices. This work was supported by the Spanish Government with the “Juan de la Cierva” fellowship JCI-2011-10452 and by the EMBO Short Term Fellowship ASTF 367-2013 to MA.
+MA wants to thank the Spanish Government through the grant “Ramón y Cajal” RYC-2015-18241.
 
 
 Help
-
-Please, do not hesitate to contact us (miguelmmmab@gmail.com) for any question.
+Do not hesitate to contact us (miguelmmmab@gmail.com) for any question.
