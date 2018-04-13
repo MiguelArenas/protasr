@@ -6,7 +6,7 @@ We have recently developed a set of structurally constrained substitution (SCS) 
 
 ProtASR arises from these aims and consists of a fast and accurate evolutionary framework to infer ancestral protein sequences accounting for structural constrains. ProtASR, through the implemented SCS models, can generate ancestral proteins that are more stable than proteins generated with the classical empirical substitution models.
 
-To download ProtASR we recommend use the Chrome browser. Then go to releases and click on the desired files. The latest release is ProtASR2.2.zip, which outperforms the previous releases and include more SCS models (among other aspects). Do not download Source code files because they only include a readme.
+To download ProtASR we recommend use the Chrome browser. Then go to "releases" and click on the desired files. The latest release is "ProtASR2.2.zip", which outperforms the previous releases and includes more SCS models (among other aspects). Do not download Source code files because they only include a readme.
 
 
 References
