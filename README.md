@@ -8,10 +8,10 @@ ProtASR applies these SCS models to perform a fast and accurate inference of anc
 
 To download ProtASR we recommend use the Chrome browser. Then go to "releases" and click on the desired files. The latest release is "ProtASR2.2.zip", which outperforms the previous releases through novel SCS models (do not download Source code files because they only include a readme). 
 The package ProtASR2.2.zip includes: 
-  - Source code and executable files.
-  - Detailed documentation.
-  - Several practical examples that include both input and output files.
-  ProtASR is freely available and open-source.
+  Source code and executable files.
+  Detailed documentation.
+  Several practical examples that include both input and output files.
+ProtASR is freely available and open-source.
 
 
 References
