@@ -16,7 +16,7 @@ ProtASR is freely available and open-source.
 
 References
 
-The last version (ProtASR2.2): 
+Last version (ProtASR2.2): 
 Arenas M & Bastolla U. 2019. Ancestral Reconstruction of Protein Sequences accounting for Folding Stability. Submitted.
 
 Old version (ProtASR1): 
