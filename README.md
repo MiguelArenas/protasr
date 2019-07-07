@@ -16,9 +16,11 @@ ProtASR is freely available and open-source.
 
 References
 
-The last version of the framework is ProtASR2.2: Manuscript submitted.
+The last version (ProtASR2.2): 
+Arenas M & Bastolla U. 2019. Ancestral Reconstruction of Protein Sequences accounting for Folding Stability. Submitted.
 
-Old version of the framework (ProtASR1): Arenas M, Weber CC, Liberles D & Bastolla, U. 2017. ProtASR: An Evolutionary Framework for Ancestral Protein Reconstruction with Selection on Folding Stability. Systematic Biology, 66(6):1054-1064.
+Old version (ProtASR1): 
+Arenas M, Weber CC, Liberles D & Bastolla U. 2017. ProtASR: An Evolutionary Framework for Ancestral Protein Reconstruction with Selection on Folding Stability. Systematic Biology, 66(6):1054-1064.
 
 
 Acknowledgments
