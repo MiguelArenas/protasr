@@ -25,7 +25,7 @@ Arenas M, Weber CC, Liberles D & Bastolla U. 2017. ProtASR: An Evolutionary Fram
 
 Acknowledgments
 
-MA wants to thank the Spanish Government for the grant "Ramón y Cajal" [RYC-2015-18241] and the Xunta de Galicia for the grant "Excelencia" [ED431F 2018/08].
+This work was supported by the Spanish Ministery of Economy and Competitivity [RYC-2015-18241 to M.A., BIO2016-79043-P to U.B.]. MA was also funded by the Xunta de Galicia “ED431F 2018/08”. Research at the CBMSO is facilitated by the Fundación Ramón Areces.
 
 
 Help
