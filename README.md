@@ -11,7 +11,7 @@ To download ProtASR2 we recommend using the Chrome browser. Then go to "releases
 
 
 The package ProtASR2.2.zip includes source code and executable files, detailed documentation, several practical examples with both input and output files.
-ProtASR is freely available and open-source.
+ProtASR2 is freely available and open-source.
 The package ProtASR2.5.zip is provided to allow compilation with some compilers.
 
 
