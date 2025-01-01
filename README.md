@@ -1,4 +1,4 @@
-ProtASR is an evolutionary framework to reconstruct ancestral protein sequences accounting for structural constraints.
+ProtASR2 is an evolutionary framework to reconstruct ancestral protein sequences accounting for structural constraints.
 
 It is known that protein evolution is influenced by the protein structure. However, most of current phylogenetic frameworks do not implement structurally constrained substitution models of evolution due to their mathematical complexity.
 
@@ -7,7 +7,7 @@ We have recently developed a set of structurally constrained substitution (SCS) 
 ProtASR applies these SCS models to perform a fast and accurate inference of ancestral protein sequences, hence accounting for structural constrains. ProtASR, through the implemented SCS models, can generate ancestral proteins that are more realistic than proteins generated with empirical substitution models and other SCS models.
 
 
-To download ProtASR we recommend use the Chrome browser. Then go to "releases" and click on the desired files. The latest release is "ProtASR2.2.zip", which outperforms the previous releases through novel SCS models: https://github.com/MiguelArenas/protasr/releases/download/v2.2/ProtASR2.2.zip 
+To download ProtASR2 we recommend using the Chrome browser. Then go to "releases" and click on the desired files. The latest release is "ProtASR2.2.zip", which outperforms the previous releases through novel SCS models: https://github.com/MiguelArenas/protasr/releases/download/v2.2/ProtASR2.2.zip 
 
 
 The package ProtASR2.2.zip includes source code and executable files, detailed documentation, several practical examples with both input and output files.
