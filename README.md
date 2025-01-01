@@ -17,7 +17,7 @@ The package ProtASR2.5.zip is provided to allow compilation with some compilers.
 
 Reference
 
-Arenas M & Bastolla U. 2020. ProtASR2: Ancestral Reconstruction of Protein Sequences accounting for Folding Stability. Methods in Ecology and Evolution. 11:248–257.
+Arenas M & Bastolla U. 2020. ProtASR2: Ancestral Reconstruction of Protein Sequences accounting for Folding Stability. Methods in Ecology and Evolution. 11:248–257. https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13341
 
 
 
