@@ -27,9 +27,8 @@ Funding and acknowledgments
 
 This work was supported by:
 - Portuguese Government through the FCT Starting grant [IF/00955/2014] to M.A.
-- Spanish Ministery of Economy and Competitivity through the grants [BFU-40020 and BIO2016-79043-P, JCI-2011-10452 and RYC-2015-18241].
-- Xunta de Galicia “ED431F 2018/08”.
-- EMBO Short-Term Fellowship ASTF 367-2013.
+- Spanish Ministery of Economy and Competitivity through the grants [BFU-40020 and BIO2016-79043-P, JCI-2011-10452 and RYC-2015-18241] and Xunta de Galicia grant [ED431F 2018/08].
+- EMBO Short-Term Fellowship [ASTF 367-2013].
 
 
 Help
