@@ -1,4 +1,4 @@
-ProtASR2 is an evolutionary framework to reconstruct ancestral protein sequences accounting for structural constraints.
+ProtASR is an evolutionary framework to reconstruct ancestral protein sequences accounting for structural constraints.
 
 It is known that protein evolution is influenced by the protein structure. However, most of current phylogenetic frameworks do not implement structurally constrained substitution models of evolution due to their mathematical complexity.
 
@@ -7,7 +7,7 @@ We have recently developed a set of structurally constrained substitution (SCS) 
 ProtASR applies these SCS models to perform a fast and accurate inference of ancestral protein sequences, hence accounting for structural constrains. ProtASR, through the implemented SCS models, can generate ancestral proteins that are more realistic than proteins generated with empirical substitution models and other SCS models.
 
 
-To download ProtASR2 we recommend using the Chrome browser. Then go to "releases" and click on the desired files. The latest release is "ProtASR2.2.zip", which outperforms the previous releases through novel SCS models: https://github.com/MiguelArenas/protasr/releases/download/v2.2/ProtASR2.2.zip 
+To download ProtASR we recommend using the Chrome browser. Then go to "releases" and click on the desired files. The latest release is "ProtASR2.2.zip", which outperforms the previous releases (also available) through novel SCS models: https://github.com/MiguelArenas/protasr/releases/download/v2.2/ProtASR2.2.zip 
 
 
 The package ProtASR2.2.zip includes source code and executable files, detailed documentation, several practical examples with both input and output files.
@@ -15,13 +15,15 @@ ProtASR2 is freely available and open-source.
 The package ProtASR2.5.zip is provided to allow compilation with some compilers.
 
 
-Reference
+References
+
+Arenas M, Weber CC, Liberles D, Bastolla U. 2017. ProtASR: An Evolutionary Framework for Ancestral Protein Reconstruction with Selection on Folding Stability. Systematic Biology, 66(6):1054-1064. https://academic.oup.com/sysbio/article/66/6/1054/2840014
 
 Arenas M & Bastolla U. 2020. ProtASR2: Ancestral Reconstruction of Protein Sequences accounting for Folding Stability. Methods in Ecology and Evolution. 11:248–257. https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13341
 
 
 
-Acknowledgments
+Funding and acknowledgments
 
 This work was supported by:
 - Portuguese Government through the FCT Starting grant [IF/00955/2014] to M.A.
