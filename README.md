@@ -23,7 +23,11 @@ Arenas M & Bastolla U. 2020. ProtASR2: Ancestral Reconstruction of Protein Seque
 
 Acknowledgments
 
-This work was supported by the Spanish Ministery of Economy and Competitivity [RYC-2015-18241 to M.A., BIO2016-79043-P to U.B.]. MA was also funded by the Xunta de Galicia “ED431F 2018/08”. Research at the CBMSO is facilitated by the Fundación Ramón Areces.
+This work was supported by:
+- Portuguese Government through the FCT Starting grant [IF/00955/2014] to M.A.
+- Spanish Ministery of Economy and Competitivity through the grants [BFU-40020 and BIO2016-79043-P, JCI-2011-10452 and RYC-2015-18241].
+- Xunta de Galicia “ED431F 2018/08”
+- EMBO Short-Term Fellowship ASTF 367-2013.
 
 
 Help
